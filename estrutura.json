@@ -1,0 +1,34 @@
+[ //Identificação de vetor/array (um vetor pode conter vários objetos)
+    { //Identificação de objeto
+        "nome" : "Calça Moletom",
+        "cor" : "preta",
+        "preco" : 45.5,
+        "fabricacao" : "2019-07-14T00:00:00",
+        "ativo" : true
+        // "array" : [1, 2, 3]
+    },
+
+    {
+        "nome" : "Calça Moletom",
+        "cor" : "preta",
+        "preco" : 45.5,
+        "fabricacao" : "2019-07-14T00:00:00",
+        "ativo" : true
+    },
+
+    {
+        "nome" : "Calça Moletom",
+        "cor" : "preta",
+        "preco" : 45.5,
+        "fabricacao" : "2019-07-14T00:00:00",
+        "ativo" : true
+    },
+
+    {
+        "nome" : "Calça Moletom",
+        "cor" : "preta",
+        "preco" : 45.5,
+        "fabricacao" : "2019-07-14T00:00:00",
+        "ativo" : true
+    },
+]
